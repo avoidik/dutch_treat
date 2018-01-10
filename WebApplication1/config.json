@@ -1,0 +1,17 @@
+{
+  "DisableSSL": false,
+  "ConnectionStrings": {
+    "WebApplication": "Server=(localdb)\\ProjectsV13;Database=WebApplicationDB;Integrated Security=True;MultipleActiveResultSets=True;"
+  },
+  "Logging": {
+    "LogLevel": {
+      "Microsoft": "Warning",
+      "WebApplication": "Information"
+    }
+  },
+  "Tokens": {
+    "Key": "d26256581e40d4da1e2caaa3908c06c9",
+    "Issuer": "localhost",
+    "Audience": "api"
+  }
+}
